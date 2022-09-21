@@ -1,4 +1,4 @@
-# Rovers on Mars
+# retail-store
 
 Is a Single Page Application based on the use of Application Programming Interface
 
@@ -6,12 +6,14 @@ Is a Single Page Application based on the use of Application Programming Interfa
 
 This single-page app was created to give users a simple way to access merchandise at a retail store. This single page application can be also be re-adapted to use for inventory control, do to the capability to add data to the server. 
 
-# App picture
-
-
-
 # Dependencies
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 
 # Goals and future improvements
